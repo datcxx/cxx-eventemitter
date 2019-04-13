@@ -33,7 +33,7 @@ build add datcxx/cxx-eventemitter
 # TEST
 
 ```bash
-build run test
+build test
 ```
 
 # API
